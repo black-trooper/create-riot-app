@@ -10,9 +10,11 @@
     "chalk": "^2.3.0",
     "yargs": "^10.0.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "ava": "^0.23.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava -v"
   },
   "repository": {
     "type": "git",
