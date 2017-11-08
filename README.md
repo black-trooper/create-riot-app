@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/create-riot-app.svg)](https://badge.fury.io/js/create-riot-app)
+[![Build Status](https://travis-ci.org/k-kuwahara/create-riot-app.svg?branch=master)](https://travis-ci.org/k-kuwahara/create-riot-app)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 # create-riot-app
