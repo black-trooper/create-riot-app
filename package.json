@@ -1,0 +1,28 @@
+{
+  "name": "create-riot-app",
+  "version": "0.0.1",
+  "description": "[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://k-kuwahara@github.com/k-kuwahara/create-riot-app.git"
+  },
+  "keywords": [
+    "riotjs",
+    "cli-tool",
+    "build-tool"
+  ],
+  "author": "k-kuwahara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k-kuwahara/create-riot-app/issues"
+  },
+  "homepage": "https://github.com/k-kuwahara/create-riot-app#readme"
+}
