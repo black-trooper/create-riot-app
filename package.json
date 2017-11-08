@@ -3,8 +3,12 @@
   "version": "0.0.1",
   "description": "[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)",
   "main": "index.js",
+  "bin": {
+    "create-riot-app": "./index.js"
+  },
   "dependencies": {
-    "chalk": "^2.3.0"
+    "chalk": "^2.3.0",
+    "yargs": "^10.0.3"
   },
   "devDependencies": {},
   "scripts": {
