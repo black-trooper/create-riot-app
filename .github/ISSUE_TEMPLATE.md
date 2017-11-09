@@ -1,8 +1,8 @@
-# Describe your issue
+# Please describe your issue
 
 # Which version of Riot does it affect?
 
-# Please teach me about your environment
+# Please describe your environment
 
 - `node -v`: 
 - `npm -v`:
